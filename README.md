@@ -1,4 +1,4 @@
-# my_h5
+# H5 template(H5 开发模版)
 
 ## Project setup
 
